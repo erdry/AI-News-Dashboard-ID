@@ -1,0 +1,114 @@
+{
+  "news_websites": {
+    "Kompas Tekno": {
+      "url": "https://tekno.kompas.com/",
+      "category": "Indonesian Tech News",
+      "language": "Indonesian",
+      "search_path": "/search/ai"
+    },
+    "Detik Inet": {
+      "url": "https://inet.detik.com/",
+      "category": "Indonesian Tech News",
+      "language": "Indonesian",
+      "search_path": "/indeks/keyword/artificial+intelligence"
+    },
+    "Tech in Asia Indonesia": {
+      "url": "https://id.techinasia.com/",
+      "category": "Indonesian Tech News",
+      "language": "Indonesian",
+      "search_path": "/tag/artificial-intelligence"
+    },
+    "The Jakarta Post Tech": {
+      "url": "https://www.thejakartapost.com/life/technology",
+      "category": "Indonesian English News",
+      "language": "English",
+      "search_path": "/search?q=artificial+intelligence"
+    },
+    "Antara News Tech": {
+      "url": "https://www.antaranews.com/teknologi",
+      "category": "Indonesian News Agency",
+      "language": "Indonesian",
+      "search_path": "/search/kecerdasan+buatan"
+    },
+    "Tempo Tekno": {
+      "url": "https://tekno.tempo.co/",
+      "category": "Indonesian Tech News",
+      "language": "Indonesian",
+      "search_path": "/tag/kecerdasan-buatan"
+    }
+  },
+  "international_sources": {
+    "TechCrunch": {
+      "url": "https://techcrunch.com/",
+      "category": "International Tech News",
+      "language": "English",
+      "search_path": "/search/Indonesia+AI"
+    },
+    "MIT Technology Review": {
+      "url": "https://www.technologyreview.com/",
+      "category": "International Tech News",
+      "language": "English",
+      "search_path": "/search/?s=Indonesia+AI"
+    },
+    "AI News": {
+      "url": "https://artificialintelligence-news.com/",
+      "category": "AI Specialized News",
+      "language": "English",
+      "search_path": "/?s=Indonesia"
+    }
+  },
+  "government_sources": {
+    "Kementerian Komunikasi dan Informatika": {
+      "url": "https://www.kominfo.go.id/",
+      "category": "Indonesian Government",
+      "language": "Indonesian",
+      "search_path": "/content/all/kecerdasan+buatan"
+    },
+    "Badan Siber dan Sandi Negara": {
+      "url": "https://bssn.go.id/",
+      "category": "Indonesian Cyber Security Agency",
+      "language": "Indonesian",
+      "search_path": "/search/kecerdasan+buatan"
+    },
+    "Badan Pengkajian dan Penerapan Teknologi": {
+      "url": "https://www.bppt.go.id/",
+      "category": "Indonesian Agency for Technology",
+      "language": "Indonesian",
+      "search_path": "/search/kecerdasan+buatan"
+    }
+  },
+  "tech_companies": {
+    "Gojek Tech": {
+      "url": "https://www.gojek.io/blog/",
+      "category": "Indonesian Tech Company",
+      "language": "English",
+      "search_path": "/?s=AI"
+    },
+    "Tokopedia Engineering": {
+      "url": "https://www.tokopedia.com/blog/engineering/",
+      "category": "Indonesian Tech Company",
+      "language": "English/Indonesian",
+      "search_path": "/?s=AI"
+    },
+    "Bukalapak Engineering": {
+      "url": "https://engineering.bukalapak.io/",
+      "category": "Indonesian Tech Company",
+      "language": "English",
+      "search_path": "/?s=AI"
+    }
+  },
+  "research_institutions": {
+    "UI Center for AI": {
+      "url": "https://ai.cs.ui.ac.id/",
+      "category": "Indonesian Academic Institution",
+      "language": "English/Indonesian",
+      "search_path": "/news"
+    },
+    "ITB School of Electrical Engineering and Informatics": {
+      "url": "https://www.stei.itb.ac.id/",
+      "category": "Indonesian Academic Institution",
+      "language": "Indonesian",
+      "search_path": "/en/news"
+    }
+  }
+}
