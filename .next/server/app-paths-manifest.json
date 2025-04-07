@@ -1,0 +1,13 @@
+{
+  "/api/categories/[categoryId]/route": "app/api/categories/[categoryId]/route.js",
+  "/api/categories/route": "app/api/categories/route.js",
+  "/api/news/latest/route": "app/api/news/latest/route.js",
+  "/api/reports/[date]/route": "app/api/reports/[date]/route.js",
+  "/api/reports/route": "app/api/reports/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/categories/page": "app/categories/page.js",
+  "/page": "app/page.js",
+  "/reports/page": "app/reports/page.js",
+  "/reports/[date]/page": "app/reports/[date]/page.js"
+}
